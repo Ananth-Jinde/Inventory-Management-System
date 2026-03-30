@@ -803,7 +803,7 @@ For more details, see LICENSE file (if present) or contact the project maintaine
 
 For issues, feature requests, or contributions:
 - **GitHub:** https://github.com/Ananth-Jinde/Inventory-Management-System
-- **Email:** jinde.ananth@example.com (replace with actual contact)
+- **Email:** jinde.ananth@example.com
 - **Issues Page:** Create a GitHub issue with detailed description and steps to reproduce
 
 ---
