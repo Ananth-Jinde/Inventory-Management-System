@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+Project Files/build/
+Project Files/dist/
+Project Files/*.spec
+
+Project Files/.pytest_cache/
+Project Files/.mypy_cache/
